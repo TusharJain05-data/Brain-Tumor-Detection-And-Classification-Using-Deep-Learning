@@ -2,8 +2,8 @@ numpy
 pandas
 matplotlib
 scikit-learn
-tensorflow
+opencv-python
+tensorflow-cpu
 torch
 torchvision
-opencv-python
 streamlit
