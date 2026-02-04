@@ -1,8 +1,5 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-opencv-python
-torch
-torchvision
-streamlit
+Flask==3.1.2
+tensorflow-cpu==2.20.0
+numpy==2.4.2
+pillow==11.3.0
+opencv-python==4.13.0.90
